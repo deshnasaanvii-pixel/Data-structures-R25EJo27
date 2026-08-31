@@ -37,3 +37,11 @@ On Linux/macOS:
 ## Student
 
 **Name:** [Deshna Saanvi M]
+
+
+## Collaboration Log
+
+* **Pairing partner:** Anushree GL (@anushureegl007hue)
+* **What we built:** We worked together on the `greet()` function in `hello.c`.
+* **What I learned:** I learned how to use GitLens to view commit history and blame annotations while collaborating through Live Share.
+
